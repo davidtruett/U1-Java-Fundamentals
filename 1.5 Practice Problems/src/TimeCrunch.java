@@ -7,7 +7,7 @@ public class TimeCrunch {
      */
 
     public static void main(String[] args) {
-        
+
         int seconds = 10000;
 
         int hours = seconds / 3600;
